@@ -1,2 +1,8 @@
 #棕色尘埃2
 #DOMAIN-SUFFIX,bd2.pmang.cloud
+
+#Steam
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamcontent.com
